@@ -1,5 +1,11 @@
-/* There is one id on the website page called secondary which is basically used for the side section (advertise section) */
+/* So this is the css file you can write your own css here. */
+/* first go to the page and inspect the page. look at the html and all the elements finds the elements you want to hide. 
+and just write css to hide those elements */
+
+
+/* For example : There is one id on the website page called secondary which is basically used for the side section (advertise section) */
 /* So we are just simply hiding that section using css */
+
 #secondary{
     display: none;
 }
