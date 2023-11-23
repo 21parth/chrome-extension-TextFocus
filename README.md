@@ -10,6 +10,6 @@
 <p>Step 3: Enable Developer Mode by toggling the switch in the top right corner.</p>
 <p>Step 4: Click on "Load unpacked" and select the root directory (folder).</p>
 <p>Step 5: That is it you will see the extension on the board with all other extentions. Make sure you enable that by using the toggle switch.</p>
-<p>Now I think you can go to the GeeksforGeeks website and open any page like whatever you want to learn and then just pin the extension. and just click it. And just enjoy the magic on the page... Thanks</p>
+<p>Now I think you can go to the GeeksforGeeks website and open any page like whatever you want to learn and then just pin the extension. and just click it. And just enjoy the magic on the page... Thanks 🚀</p>
 
 
