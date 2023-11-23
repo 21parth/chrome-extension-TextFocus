@@ -11,5 +11,4 @@
 <p>Step 4: Click on "Load unpacked" and select the root directory (folder).</p>
 <p>Step 5: That is it you will see the extension on the board with all other extentions. Make sure you enable that by using the toggle switch.</p>
 <p>Now I think you can go to the website and then just pin the extension. and just click it. And just enjoy the magic on the page... Thanks 🚀</p>
-
-
+<p><b>If you have any question regarding this or you want to add some functionality! Let's do this together!!🚀</b></p>
