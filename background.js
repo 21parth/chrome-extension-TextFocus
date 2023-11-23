@@ -14,5 +14,21 @@ chrome.action.onClicked.addListener(async (tab) => {
             tabId: tab.id,
             text: nextState
         })
+
+        //Injecting the css file
+        if(nextState === "ON"){
+            await chrome.scripting.insertCSS({
+                files: ["focus-mode.css"],
+                target : {tabId:tab.id},
+            })
+        }
+
+        //removing the css file
+        else if (nextState === "OFF") {
+            await chrome.scripting.removeCSS({
+              files: ["focus-mode.css"],
+              target: { tabId: tab.id },
+            });
+        }
     }
 });
