@@ -4,3 +4,5 @@ I'm just starting making Chrome extensions and right now, mine only works on Gee
 <p>I am on it. 😁</p>
 <p>I will appreciate all your suggestions.🫡</p>
 
+## How to use?
+Step 1: Download the [Zip file from here](https://github.com/21parth/chrome-extension-TextFocus/tree/main).
