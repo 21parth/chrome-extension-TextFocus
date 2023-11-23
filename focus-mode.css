@@ -1,0 +1,5 @@
+/* There is one id on the geeksOfgeeks page called secondary which is basically used for the side section (advertise section) */
+/* So we are just simply hiding that section using css */
+#secondary{
+    display: none;
+}
