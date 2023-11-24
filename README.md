@@ -1,6 +1,6 @@
 # chrome-extension-TextFocus
 ## Chrome extension to remove adds or unwanted content from the page.
-<p>I'm just starting making Chrome extensions so I've got the basics down ✅. This is more kind of general code structure, you can edit the respective files with your code and use it.
+<p>I'm just starting making Chrome extensions so I've got the basics down ✅. This is more kind of general code template, you can edit the respective files with your code and use it.
 <p>I will appreciate all your suggestions.🫡</p>
 
 ## How to use?
